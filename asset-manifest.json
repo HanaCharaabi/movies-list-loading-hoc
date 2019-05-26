@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movies-list-loading-hoc/static/css/main.146da2ae.chunk.css",
+    "main.js": "/movies-list-loading-hoc/static/js/main.2bf1993e.chunk.js",
+    "main.js.map": "/movies-list-loading-hoc/static/js/main.2bf1993e.chunk.js.map",
+    "runtime~main.js": "/movies-list-loading-hoc/static/js/runtime~main.7392689e.js",
+    "runtime~main.js.map": "/movies-list-loading-hoc/static/js/runtime~main.7392689e.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/movies-list-loading-hoc/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/movies-list-loading-hoc/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/movies-list-loading-hoc/index.html",
+    "precache-manifest.c63a0bae144f6e359baaf8c2077f6acc.js": "/movies-list-loading-hoc/precache-manifest.c63a0bae144f6e359baaf8c2077f6acc.js",
+    "service-worker.js": "/movies-list-loading-hoc/service-worker.js",
+    "static/css/main.146da2ae.chunk.css.map": "/movies-list-loading-hoc/static/css/main.146da2ae.chunk.css.map",
+    "static/media/spinner.svg": "/movies-list-loading-hoc/static/media/spinner.6f6cb7b0.svg"
+  }
+}
